@@ -9,15 +9,19 @@ int main() {
 
     // Use a switch statement to print the corresponding day of the week
     switch (branch) {
-        case 1:
+case 1:
             printf("B tech in CSE\n");
             break;
- case 2:
+case 2:
             printf("B.Tech in AI ML\n");
             break;
-        case 3:
+case 3:
             printf("B.Tech in ECE\n");
             break;
 case 4:
             printf("B.Tech in civil\n");
             break;
+ }
+
+    return 0;
+}
