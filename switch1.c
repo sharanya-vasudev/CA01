@@ -18,3 +18,13 @@ int main() {
         case 3:
             printf("B.Tech in ECE\n");
             break;
+case 4:
+            printf("B.Tech in civil\n");
+            break;
+default:
+            printf("Invalid input! Please enter a number between 1 and 7.\n");
+            break;
+    }
+
+    return 0;
+}
