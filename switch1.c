@@ -12,3 +12,8 @@ int main() {
         case 1:
             printf("B tech in CSE\n");
             break;
+ }
+
+    return 0;
+}
+  
