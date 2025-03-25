@@ -12,3 +12,9 @@ int main() {
         case 1:
             printf("B tech in CSE\n");
             break;
+ case 2:
+            printf("B.Tech in AI ML\n");
+            break;
+        case 3:
+            printf("Wednesday\n");
+            break;
