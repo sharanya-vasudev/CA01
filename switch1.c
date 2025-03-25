@@ -16,5 +16,8 @@ int main() {
             printf("B.Tech in AI ML\n");
             break;
         case 3:
-            printf("Wednesday\n");
+            printf("B.Tech in ECE\n");
+            break;
+case 4:
+            printf("B.Tech in civil\n");
             break;
