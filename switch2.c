@@ -11,4 +11,6 @@ int main() {
     switch (branch) {
         case 1:
             printf("B tech in CSE\n");
+            break;case 2:
+            printf("B.Tech in AI ML\n");
             break;
